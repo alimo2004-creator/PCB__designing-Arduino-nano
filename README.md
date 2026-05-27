@@ -78,7 +78,17 @@ The interface is exposed via two 15-pin header blocks (`S4` and `S5`) alongside 
 * **EMI Optimization:** Ground planes pour completely across empty layout areas, linking together through dense via stitching under high-frequency crystal nodes to prevent parasitic loop antennas.
 
 ---
+##
+[!image1](images/1)
+[!image2](images/2)
+[!image3](images/FTDI)
+[!image4](images/autoselector)
+[!image5](images/connection)
+[!image6](images/main_chip)
+[!image7](images/pin_header)
 
+
+---
 ## 🚀 Deployment & Usage
 
 ### 1. Driver Installation
