@@ -81,12 +81,14 @@ The interface is exposed via two 15-pin header blocks (`S4` and `S5`) alongside 
 ##
 ![image1](images/1)
 ![image2](images/2)
+![image1](images/pcb)
 ![image3](images/FTDI)
 ![image4](images/autoselector)
 ![image5](images/connection)
 ![image6](images/main_chip)
 ![image7](images/pin_header)
 ![image1](images/all)
+
 
 
 ---
